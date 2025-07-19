@@ -1,8 +1,3 @@
-Here’s a clean and professional `README.md` for your **Nike Landing Page** project using **Tailwind CSS** and **React.js**, inspired by the structure you shared. I’ve removed unnecessary parts like `.eslintrc.cjs`, and cleaned up some promotional or repetitive content while keeping it informative.
-
----
-
-````markdown
 # 👟 Nike Landing Page
 
 A modern, fully responsive Nike landing page built using **React.js** and **Tailwind CSS**. This project helps you master Tailwind by applying core concepts to a real-world, production-level landing page design.
@@ -95,26 +90,9 @@ Open your browser at [http://localhost:5173](http://localhost:5173)
 
 ---
 
-## 🚨 Tutorial
-
-This project follows along with a detailed video tutorial by **JavaScript Mastery**. Perfect for visual learners who want to master Tailwind through a hands-on build.
-
-> 🎥 YouTube Tutorial: [Nike Landing Page — JavaScript Mastery](https://www.youtube.com/watch?v=oYRda7UtuhA)
-
----
-
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
 ```
 
----
-
-Let me know if you want:
-- Deployment instructions (e.g., Vercel or GitHub Pages)
-- Favicon or preview image links
-- To add your own name, credits, or social links at the bottom
-
-Would you like me to generate a preview image for the landing page as well?
-```
