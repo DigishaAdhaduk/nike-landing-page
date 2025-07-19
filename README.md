@@ -94,5 +94,5 @@ Open your browser at [http://localhost:5173](http://localhost:5173)
 
 This project is open-source and available under the [MIT License](LICENSE).
 
-```
+
 
